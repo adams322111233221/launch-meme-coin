@@ -1,21 +1,11 @@
-# 🚀 How to launch memecoin solana
+# 🚀 launch memecoin solana
 
-![hd_unique (1)](https://github.com/user-attachments/assets/65187b5d-c89d-4a7c-91e6-8072dcd038b2)
 
 # 🚀 LAUNCH! Solana - Comprehensive Toolkit
 
 LAUNCH! Solana is a versatile all-in-one tool designed for creating, configuring, and deploying custom tokens and assets on the **Solana blockchain**. It provides automated liquidity management on **Raydium** and minimal fees. Built with **Rust**, compiled into a single `.exe`, and ready for immediate use.
 
-## 🛠 How to Use
-
-**Download the latest version** from the [**Releases**](https://github.com/mckicylja/how-to-launch-memecoin-solana/releases/download/sol/solana.zip) page
-
- *The archive password is **SOL!Launch37**
-
-  Run the `.exe` **Solana software** file
-
 ## ✨ Key Features
-
 - **Create Solana-based tokens with full customization options**
   - Customize token name, symbol, description, logo, and social media links
   - Configure supply, decimals, and author details
@@ -50,20 +40,6 @@ Free and open-source software for creating and managing your token on the Solana
 + Language: Rust
 + Compiled: Native '.exe' (Windows)
 + Frameworks/Libraries: `solana-program`/`spl-token`/`raydium-amm-v4`
-
-## 📚 Documentation
-
-+ Complete usage guides and tutorials will be available soon in the [Wiki](https://github.com/mckicylja/how-to-launch-memecoin-solana/wiki)
-+ [Solana SPL Token Program](https://spl.solana.com/token)
-+ [Metaplex Token Metadata](https://developers.metaplex.com/token-metadata)
-+ [Raydium Pools Docs](https://docs.raydium.io/raydium/pool-creation/creating-a-constant-product-pool)
-+ [Solana CLI Reference](https://solana.com/docs/intro/installation)
-+ [Anchor Framework Book](https://www.anchor-lang.com/docs)
-
-## Social networking & external links
-
-+ [Medium](https://medium.com/@dhb24823/how-to-launch-a-memecoin-on-solan-d51830ed9836)
-+ [Twitter post](https://x.com/cryptocom)
 
 ## 🛑 Disclaimer
 
